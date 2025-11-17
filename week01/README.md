@@ -1,7 +1,7 @@
 # FitnessBot
 
-A Telegram bot that provides personalized fitness and nutrition advice using Google's Gemini AI. Specializes in diets
-and calisthenics with personalized recommendations based on user profiles.
+Бот для Telegram, предоставляющий персонализированные советы по фитнесу и питанию с использованием искусственного интеллекта Gemini от Google. Специализируется на диетах и упражнениях, 
+предоставляя персонализированные рекомендации на основе профилей пользователей.
 
 ## Bot Handle
 [@diets_and_calisthenics_lab1_bot](https://t.me/diets_and_calisthenics_lab1_bot)
